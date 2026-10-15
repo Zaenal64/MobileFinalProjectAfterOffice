@@ -1,4 +1,4 @@
-# 📱 Katalon Sauce Labs Mobile Automation Testing
+<h1 align="center"> 📱 Katalon Sauce Labs Mobile Automation Testing </h1>
 
 ![Katalon Studio](https://img.shields.io/badge/Tool-Katalon%20Studio%20v11.x-green)
 ![Appium](https://img.shields.io/badge/Engine-Appium-purple)
