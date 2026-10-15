@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Login</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Nayla Azzahra</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Nayla Azzahra</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>3f8111fd-aca8-4b66-88cd-6f48b27506c8</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>3f8111fd-aca8-4b66-88cd-6f48b27506c8</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6188fbfd-d86e-42c2-a9c7-958e2eab89e9</testCaseGuid>
+</TestCaseEntity>
