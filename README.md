@@ -10,7 +10,6 @@ This project is an automated mobile testing framework built for the **MyDemoApp*
 ---
 
 ## 🛠️ Prerequisites & Setup
-
 Ensure the following software and environment dependencies are configured on your local machine before executing the tests:
 
 1. **Katalon Studio** (v11.x Enterprise / Free Trial)
@@ -275,13 +274,11 @@ Ensure the following software and environment dependencies are configured on you
    * Choose your active Android Device / Emulator and click OK
   
 ## 🧪 Test Suite & Test Coverage
-
 | Nama Test Suite | Method | Expected Status | Status |
 | --- | --- | --- | --- |
 | Login, Logout, View Dashboard Produk | E2e | 200 OK |🟢 PASSED |
 
 ## 🔒 Security & Best Practices
-
 * Local APK files and test artifacts are excluded from remote tracking via .gitignore.
 * No sensitive credentials, secrets, or API keys are stored within this repository.
 
